@@ -25,7 +25,7 @@ public class sistem{
       // System.out.print("Qual o primeiro número que vc deseja usar? ");
       // int n1 = input.nextInt();
 
-      // System.out.println("Escola qual operação vc pretende usar: ");
+      // System.out.println("Escolha qual operação vc pretende usar: ");
       // System.out.print("""
       //    1 - Soma
       //    2 - Subtração
