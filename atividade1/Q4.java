@@ -11,7 +11,7 @@ public class Q4 {
         double altura = input.nextDouble();
 
         double calculo = peso/(altura*altura);
-        if(calculo <18.5){
+        if(calculo < 18.5){
             System.out.println("Vc está abaixo do peso.");
         }else if(calculo < 25){
             System.out.println("Vc está com peso normal");
