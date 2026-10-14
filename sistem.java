@@ -1,6 +1,6 @@
-import java.util.Scanner;
-public class sistem{
-    public static void main(String[] args){
+// import java.util.Scanner;
+// public class sistem{
+//     public static void main(String[] args){
 
  //   String aa = "ni";
    // String bb = "ck";
@@ -49,8 +49,8 @@ public class sistem{
       //    default:
       //       System.out.println("Opção inválida!");
       //       break;
-      }
+   //    }
 
-      }
-   }
+   //    }
+   // }
 
